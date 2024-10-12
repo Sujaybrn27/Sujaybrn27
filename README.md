@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sujay
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning PG in Data-Science
+- 👀 I’m interested to derive insights from data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
